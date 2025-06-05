@@ -41,3 +41,39 @@ body {
   article, aside {
     border: 1px solid #ddd;
   }
+
+  /* Header adjustments for logo and alignment */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #4a90e2; /* nicer blue */
+    color: white;
+  }
+  
+  /* Make sure the logo is bigger */
+  .logo {
+    font-size: 2rem;
+    margin-right: 10px;
+  }
+  
+  /* Article styling enhancements */
+  article {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    color: #444;
+    font-size: 1.1rem;
+  }
+  
+  /* Footer styling */
+  footer {
+    background-color: #4a90e2;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
