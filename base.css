@@ -1,0 +1,17 @@
+/* Base styles provided by ALX */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .works_on_smartphone {
+    font-size: 14px;
+  }
+  
+  .logo {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
